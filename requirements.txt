@@ -1,0 +1,6 @@
+streamlit==1.50.0
+langchain==0.3.27
+langchain-openai==0.3.33
+python-dotenv==1.0.0
+pandas
+numpy
